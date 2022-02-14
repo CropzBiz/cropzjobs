@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cropz Jobs</title>
+        <link>https://cropzjobs.com/</link>
+        <description>Recent content on Cropz Jobs</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 10 Feb 2022 07:38:45 +0530</lastBuildDate><atom:link href="https://cropzjobs.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Territory Manager</title>
+        <link>https://cropzjobs.com/p/territory-manager/</link>
+        <pubDate>Thu, 10 Feb 2022 07:38:45 +0530</pubDate>
+        
+        <guid>https://cropzjobs.com/p/territory-manager/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Welcome Jobs</title>
+        <link>https://cropzjobs.com/p/welcome-jobs/</link>
+        <pubDate>Thu, 10 Feb 2022 07:38:45 +0530</pubDate>
+        
+        <guid>https://cropzjobs.com/p/welcome-jobs/</guid>
+        <description>&lt;p&gt;Hello,&lt;/p&gt;
+&lt;p&gt;Welcome to Cropz Jobs. We try to get you jobs in Agri business industry. Ya&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
