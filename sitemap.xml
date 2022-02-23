@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cropzjobs.com/about/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cropzjobs.com/</loc>
-    <lastmod>2022-02-10T07:38:45+05:30</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cropzjobs.com/page/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cropzjobs.com/post/</loc>
     <lastmod>2022-02-10T07:38:45+05:30</lastmod>
@@ -14,23 +20,10 @@
     <loc>https://cropzjobs.com/p/welcome-jobs/</loc>
     <lastmod>2022-02-10T07:38:45+05:30</lastmod>
   </url><url>
-    <loc>https://cropzjobs.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cropzjobs.com/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cropzjobs.com/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cropzjobs.com/categories/</loc>
-  </url><url>
-    <loc>https://cropzjobs.com/links/</loc>
   </url><url>
     <loc>https://cropzjobs.com/search/</loc>
   </url><url>
     <loc>https://cropzjobs.com/tags/</loc>
-  </url><url>
-    <loc>https://cropzjobs.com/categories/test/</loc>
   </url>
 </urlset>
